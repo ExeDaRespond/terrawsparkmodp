@@ -2,4 +2,4 @@
 
 TO DO :
 
-[x] fix this repo lol
+[ ] fix this repo lol
